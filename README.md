@@ -4,3 +4,4 @@ ADIYAMAN
 Afyonkarahisar
 Ağrı
 Aksaray
+Amasya
