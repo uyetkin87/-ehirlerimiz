@@ -6,3 +6,4 @@ Ağrı
 Aksaray
 Amasya
 Ankara
+Antalya
