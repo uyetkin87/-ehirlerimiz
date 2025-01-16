@@ -7,3 +7,4 @@ Aksaray
 Amasya
 Ankara
 Antalya
+Ardahan
