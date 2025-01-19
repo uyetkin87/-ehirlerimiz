@@ -10,3 +10,4 @@ Antalya
 Ardahan
 Artvin
 Aydın
+Balıkesir
