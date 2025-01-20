@@ -11,3 +11,4 @@ Ardahan
 Artvin
 Aydın
 Balıkesir
+Bartın
