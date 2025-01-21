@@ -12,3 +12,4 @@ Artvin
 Aydın
 Balıkesir
 Bartın
+Batman
