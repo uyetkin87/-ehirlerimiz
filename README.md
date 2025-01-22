@@ -13,3 +13,4 @@ Aydın
 Balıkesir
 Bartın
 Batman
+Bayburt
