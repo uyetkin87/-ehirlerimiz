@@ -15,3 +15,4 @@ Bartın
 Batman
 Bayburt
 Bilecik
+Bingöl
