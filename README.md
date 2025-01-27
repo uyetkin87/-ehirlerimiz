@@ -18,3 +18,4 @@ Bilecik
 Bingöl
 Bitlis
 Bolu
+Burdur
