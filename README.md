@@ -19,3 +19,4 @@ Bingöl
 Bitlis
 Bolu
 Burdur
+Bursa
