@@ -20,3 +20,4 @@ Bitlis
 Bolu
 Burdur
 Bursa
+Çanakkale
