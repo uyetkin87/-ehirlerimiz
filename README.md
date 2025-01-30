@@ -21,3 +21,4 @@ Bolu
 Burdur
 Bursa
 Çanakkale
+Çankırı
