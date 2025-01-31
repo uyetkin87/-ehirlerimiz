@@ -22,3 +22,4 @@ Burdur
 Bursa
 Çanakkale
 Çankırı
+Çorum
