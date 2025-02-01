@@ -23,3 +23,4 @@ Bursa
 Çanakkale
 Çankırı
 Çorum
+Denizli
