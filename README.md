@@ -24,3 +24,4 @@ Bursa
 Çankırı
 Çorum
 Denizli
+Diyarbakır
