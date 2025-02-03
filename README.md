@@ -25,3 +25,4 @@ Bursa
 Çorum
 Denizli
 Diyarbakır
+Düzce
