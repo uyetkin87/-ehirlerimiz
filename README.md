@@ -27,3 +27,4 @@ Denizli
 Diyarbakır
 Düzce
 Edirne
+Elazığ
