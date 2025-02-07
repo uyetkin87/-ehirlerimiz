@@ -29,3 +29,4 @@ Düzce
 Edirne
 Elazığ
 Erzincan
+Erzurum
