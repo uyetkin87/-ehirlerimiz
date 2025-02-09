@@ -31,3 +31,4 @@ Elazığ
 Erzincan
 Erzurum
 Eskişehir
+Gaziantep
