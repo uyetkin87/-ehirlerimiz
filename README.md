@@ -32,3 +32,4 @@ Erzincan
 Erzurum
 Eskişehir
 Gaziantep
+Giresun
