@@ -35,3 +35,4 @@ Gaziantep
 Giresun
 Gümüşhane
 Hakkâri
+Hatay
