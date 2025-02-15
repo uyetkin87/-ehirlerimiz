@@ -37,3 +37,4 @@ Gümüşhane
 Hakkâri
 Hatay
 Iğdır
+Isparta
