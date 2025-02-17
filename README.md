@@ -39,3 +39,4 @@ Hatay
 Iğdır
 Isparta
 İstanbul
+İzmir
