@@ -42,3 +42,4 @@ Isparta
 İzmir
 Kahramanmaraş
 Karabük
+Karaman
