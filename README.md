@@ -43,3 +43,4 @@ Isparta
 Kahramanmaraş
 Karabük
 Karaman
+Kars
