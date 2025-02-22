@@ -44,3 +44,4 @@ Kahramanmaraş
 Karabük
 Karaman
 Kars
+Kastamonu
