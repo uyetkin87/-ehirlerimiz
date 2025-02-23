@@ -45,3 +45,4 @@ Karabük
 Karaman
 Kars
 Kastamonu
+Kayseri
