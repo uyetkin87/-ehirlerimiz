@@ -47,3 +47,4 @@ Kars
 Kastamonu
 Kayseri
 Kırıkkale
+Kırklareli
