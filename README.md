@@ -48,3 +48,4 @@ Kastamonu
 Kayseri
 Kırıkkale
 Kırklareli
+Kırşehir
