@@ -51,3 +51,4 @@ Kırklareli
 Kırşehir
 Kilis
 Kocaeli
+Konya
