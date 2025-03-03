@@ -53,3 +53,4 @@ Kilis
 Kocaeli
 Konya
 Kütahya
+Malatya
