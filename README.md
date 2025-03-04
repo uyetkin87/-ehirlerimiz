@@ -54,3 +54,4 @@ Kocaeli
 Konya
 Kütahya
 Malatya
+Manisa
