@@ -62,3 +62,4 @@ Muş
 Nevşehir
 Niğde
 Ordu
+Osmaniye
