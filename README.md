@@ -63,3 +63,4 @@ Nevşehir
 Niğde
 Ordu
 Osmaniye
+Rize
