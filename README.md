@@ -65,3 +65,4 @@ Ordu
 Osmaniye
 Rize
 Sakarya
+Samsun
