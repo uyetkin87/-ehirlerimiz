@@ -67,3 +67,4 @@ Rize
 Sakarya
 Samsun
 Siirt
+Sinop
