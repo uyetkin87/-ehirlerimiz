@@ -68,3 +68,4 @@ Sakarya
 Samsun
 Siirt
 Sinop
+Sivas
