@@ -69,3 +69,4 @@ Samsun
 Siirt
 Sinop
 Sivas
+Şanlıurfa
