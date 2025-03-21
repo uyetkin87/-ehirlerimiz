@@ -71,3 +71,4 @@ Sinop
 Sivas
 Şanlıurfa
 Şırnak
+Tekirdağ
