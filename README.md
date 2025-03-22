@@ -72,3 +72,4 @@ Sivas
 Şanlıurfa
 Şırnak
 Tekirdağ
+Tokat
