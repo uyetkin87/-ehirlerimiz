@@ -75,3 +75,4 @@ Tekirdağ
 Tokat
 Trabzon
 Tunceli
+Uşak
