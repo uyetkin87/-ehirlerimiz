@@ -77,3 +77,4 @@ Trabzon
 Tunceli
 Uşak
 Van
+Yalova
