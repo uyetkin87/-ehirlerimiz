@@ -78,3 +78,4 @@ Tunceli
 Uşak
 Van
 Yalova
+Yozgat
