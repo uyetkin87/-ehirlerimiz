@@ -1,7 +1,7 @@
 # -ehirlerimiz ve Rakımlar
 ADANA-25
 ADIYAMAN-701
-Afyonkarahisar-
+Afyonkarahisar-	1012
 Ağrı-
 Aksaray-
 Amasya-
