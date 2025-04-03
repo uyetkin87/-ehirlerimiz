@@ -4,7 +4,7 @@ ADIYAMAN-701
 Afyonkarahisar-	1012
 Ağrı-400
 Aksaray-
-Amasya-
+Amasya-400
 Ankara-
 Antalya-
 Ardahan-
