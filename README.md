@@ -5,7 +5,7 @@ Afyonkarahisar-	1012
 Ağrı-400
 Aksaray-
 Amasya-400
-Ankara-
+Ankara-905
 Antalya-
 Ardahan-
 Artvin-
