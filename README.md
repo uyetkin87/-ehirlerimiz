@@ -6,7 +6,7 @@ Ağrı-400
 Aksaray-
 Amasya-400
 Ankara-905
-Antalya-
+Antalya-62
 Ardahan-
 Artvin-
 Aydın-
