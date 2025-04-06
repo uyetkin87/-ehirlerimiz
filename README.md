@@ -8,7 +8,7 @@ Amasya-400
 Ankara-905
 Antalya-62
 Ardahan-
-Artvin-
+Artvin-530
 Aydın-
 Balıkesir-
 Bartın-
