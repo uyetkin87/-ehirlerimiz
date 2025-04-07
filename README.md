@@ -9,7 +9,7 @@ Ankara-905
 Antalya-62
 Ardahan-
 Artvin-530
-Aydın-
+Aydın-92
 Balıkesir-
 Bartın-
 Batman-
