@@ -10,7 +10,7 @@ Antalya-62
 Ardahan-
 Artvin-530
 Aydın-92
-Balıkesir-
+Balıkesir-145
 Bartın-
 Batman-
 Bayburt-
