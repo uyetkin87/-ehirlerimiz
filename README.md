@@ -15,7 +15,7 @@ Bartın-
 Batman-
 Bayburt-
 Bilecik-513
-Bingöl-
+Bingöl-1159
 Bitlis-
 Bolu-
 Burdur-
