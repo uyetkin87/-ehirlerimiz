@@ -17,7 +17,7 @@ Bayburt-
 Bilecik-513
 Bingöl-1159
 Bitlis-1637
-Bolu-
+Bolu-741
 Burdur-
 Bursa-
 Çanakkale-
