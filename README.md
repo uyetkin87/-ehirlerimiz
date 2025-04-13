@@ -18,7 +18,7 @@ Bilecik-513
 Bingöl-1159
 Bitlis-1637
 Bolu-741
-Burdur-
+Burdur-963
 Bursa-
 Çanakkale-
 Çankırı-
