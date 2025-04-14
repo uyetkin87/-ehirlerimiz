@@ -19,7 +19,7 @@ Bingöl-1159
 Bitlis-1637
 Bolu-741
 Burdur-963
-Bursa-
+Bursa-238
 Çanakkale-
 Çankırı-
 Çorum-
