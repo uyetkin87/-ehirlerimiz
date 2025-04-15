@@ -20,7 +20,7 @@ Bitlis-1637
 Bolu-741
 Burdur-963
 Bursa-238
-Çanakkale-
+Çanakkale-11
 Çankırı-
 Çorum-
 Denizli-
