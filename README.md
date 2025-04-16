@@ -21,7 +21,7 @@ Bolu-741
 Burdur-963
 Bursa-238
 Çanakkale-11
-Çankırı-
+Çankırı-730
 Çorum-
 Denizli-
 Diyarbakır-
