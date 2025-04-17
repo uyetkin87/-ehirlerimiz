@@ -22,7 +22,7 @@ Burdur-963
 Bursa-238
 Çanakkale-11
 Çankırı-730
-Çorum-
+Çorum-822
 Denizli-
 Diyarbakır-
 Düzce-
