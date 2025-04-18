@@ -23,7 +23,7 @@ Bursa-238
 Çanakkale-11
 Çankırı-730
 Çorum-822
-Denizli-
+Denizli-392
 Diyarbakır-
 Düzce-
 Edirne-
