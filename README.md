@@ -24,7 +24,7 @@ Bursa-238
 Çankırı-730
 Çorum-822
 Denizli-392
-Diyarbakır-
+Diyarbakır-674
 Düzce-
 Edirne-
 Elazığ-
