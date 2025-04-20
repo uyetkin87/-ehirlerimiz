@@ -26,7 +26,7 @@ Bursa-238
 Denizli-392
 Diyarbakır-674
 Düzce-
-Edirne-
+Edirne-50
 Elazığ-
 Erzincan-
 Erzurum-
