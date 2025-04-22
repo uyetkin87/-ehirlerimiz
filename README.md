@@ -28,7 +28,7 @@ Diyarbakır-674
 Düzce-
 Edirne-50
 Elazığ-1041
-Erzincan-
+Erzincan-1216
 Erzurum-
 Eskişehir-
 Gaziantep-
