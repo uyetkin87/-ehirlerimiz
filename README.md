@@ -29,7 +29,7 @@ Düzce-
 Edirne-50
 Elazığ-1041
 Erzincan-1216
-Erzurum-
+Erzurum-1923
 Eskişehir-
 Gaziantep-
 Giresun-
