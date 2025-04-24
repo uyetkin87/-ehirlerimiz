@@ -30,7 +30,7 @@ Edirne-50
 Elazığ-1041
 Erzincan-1216
 Erzurum-1923
-Eskişehir-
+Eskişehir-796
 Gaziantep-
 Giresun-
 Gümüşhane-
