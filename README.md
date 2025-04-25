@@ -31,7 +31,7 @@ Elazığ-1041
 Erzincan-1216
 Erzurum-1923
 Eskişehir-796
-Gaziantep-
+Gaziantep-838
 Giresun-
 Gümüşhane-
 Hakkâri-
