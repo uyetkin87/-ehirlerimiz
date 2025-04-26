@@ -32,7 +32,7 @@ Erzincan-1216
 Erzurum-1923
 Eskişehir-796
 Gaziantep-838
-Giresun-
+Giresun-14
 Gümüşhane-
 Hakkâri-
 Hatay-
