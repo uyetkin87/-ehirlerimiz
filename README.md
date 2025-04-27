@@ -33,7 +33,7 @@ Erzurum-1923
 Eskişehir-796
 Gaziantep-838
 Giresun-14
-Gümüşhane-
+Gümüşhane-1174
 Hakkâri-
 Hatay-
 Iğdır-
