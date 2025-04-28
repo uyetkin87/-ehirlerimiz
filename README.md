@@ -34,7 +34,7 @@ Eskişehir-796
 Gaziantep-838
 Giresun-14
 Gümüşhane-1174
-Hakkâri-
+Hakkâri-1756
 Hatay-
 Iğdır-
 Isparta-
