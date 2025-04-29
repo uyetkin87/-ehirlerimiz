@@ -35,7 +35,7 @@ Gaziantep-838
 Giresun-14
 Gümüşhane-1174
 Hakkâri-1756
-Hatay-
+Hatay-89
 Iğdır-
 Isparta-
 İstanbul-
