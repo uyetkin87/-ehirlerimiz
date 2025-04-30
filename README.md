@@ -37,7 +37,7 @@ Gümüşhane-1174
 Hakkâri-1756
 Hatay-89
 Iğdır-
-Isparta-
+Isparta-1058
 İstanbul-
 İzmir-
 Kahramanmaraş-
