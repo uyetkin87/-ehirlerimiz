@@ -38,7 +38,7 @@ Hakkâri-1756
 Hatay-89
 Iğdır-
 Isparta-1058
-İstanbul-
+İstanbul-25
 İzmir-
 Kahramanmaraş-
 Karabük-
