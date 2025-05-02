@@ -39,7 +39,7 @@ Hatay-89
 Iğdır-
 Isparta-1058
 İstanbul-25
-İzmir-
+İzmir-	9
 Kahramanmaraş-
 Karabük-
 Karaman-
