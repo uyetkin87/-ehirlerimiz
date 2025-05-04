@@ -54,7 +54,7 @@ Kocaeli-
 Konya-
 Kütahya-
 Malatya-
-Manisa-
+Manisa-79
 Mardin-
 Mersin-
 Muğla-
