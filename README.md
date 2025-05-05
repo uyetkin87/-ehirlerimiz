@@ -3,7 +3,7 @@ ADANA-25
 ADIYAMAN-701
 Afyonkarahisar-	1012
 Ağrı-400
-Aksaray-
+Aksaray-1228
 Amasya-400
 Ankara-905
 Antalya-62
