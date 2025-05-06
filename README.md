@@ -7,7 +7,7 @@ Aksaray-1228
 Amasya-400
 Ankara-905
 Antalya-62
-Ardahan-
+Ardahan-1799
 Artvin-530
 Aydın-92
 Balıkesir-145
