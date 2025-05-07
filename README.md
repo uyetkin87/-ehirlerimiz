@@ -11,7 +11,7 @@ Ardahan-1799
 Artvin-530
 Aydın-92
 Balıkesir-145
-Bartın-
+Bartın-	12
 Batman-
 Bayburt-
 Bilecik-513
