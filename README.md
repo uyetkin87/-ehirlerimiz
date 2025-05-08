@@ -12,7 +12,7 @@ Artvin-530
 Aydın-92
 Balıkesir-145
 Bartın-	12
-Batman-
+Batman-570
 Bayburt-
 Bilecik-513
 Bingöl-1159
