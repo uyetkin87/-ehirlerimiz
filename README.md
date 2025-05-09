@@ -13,7 +13,7 @@ Aydın-92
 Balıkesir-145
 Bartın-	12
 Batman-570
-Bayburt-
+Bayburt-1555
 Bilecik-513
 Bingöl-1159
 Bitlis-1637
