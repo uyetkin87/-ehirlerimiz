@@ -25,7 +25,7 @@ Bursa-238
 Çorum-822
 Denizli-392
 Diyarbakır-674
-Düzce-
+Düzce-149
 Edirne-50
 Elazığ-1041
 Erzincan-1216
