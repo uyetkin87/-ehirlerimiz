@@ -36,7 +36,7 @@ Giresun-14
 Gümüşhane-1174
 Hakkâri-1756
 Hatay-89
-Iğdır-
+Iğdır-860
 Isparta-1058
 İstanbul-25
 İzmir-	9
