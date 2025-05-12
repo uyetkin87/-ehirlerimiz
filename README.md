@@ -41,7 +41,7 @@ Isparta-1058
 İstanbul-25
 İzmir-	9
 Kahramanmaraş-562
-Karabük-
+Karabük-264
 Karaman-
 Kars-
 Kastamonu-
