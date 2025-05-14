@@ -48,10 +48,10 @@ Kastamonu-814
 Kayseri-1060
 Kırıkkale-746
 Kırklareli-231
-Kırşehir-
-Kilis-
-Kocaeli-
-Konya-
+Kırşehir-991
+Kilis-660
+Kocaeli-9
+Konya-1023
 Kütahya-
 Malatya-
 Manisa-
