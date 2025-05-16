@@ -58,7 +58,7 @@ Manisa-79
 Mardin-938
 Mersin-18
 Muğla-659
-Muş-
+Muş-1334
 Nevşehir-
 Niğde-
 Ordu-
