@@ -59,11 +59,11 @@ Mardin-938
 Mersin-18
 Muğla-659
 Muş-1334
-Nevşehir-
-Niğde-
-Ordu-
-Osmaniye-
-Rize-
+Nevşehir-1197
+Niğde-1239
+Ordu-25
+Osmaniye-121
+Rize-11
 Sakarya-
 Samsun-
 Siirt-
